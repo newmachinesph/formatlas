@@ -1,0 +1,212 @@
+{
+  "formatVersion": 1,
+  "source": "MakeHuman system assets",
+  "sourceUrl": "https://static.makehumancommunity.org/assets/assetpacks/makehuman_system_assets.html",
+  "license": "CC0 1.0 Universal",
+  "proxyFormatVersion": 1,
+  "fitVertexCount": 19158,
+  "hair": {
+    "pixie": {
+      "proxy": "/assets/makehuman/proxies/hair-pixie.proxy",
+      "sourceVertices": 1755,
+      "renderVertices": 2061,
+      "triangles": 3344,
+      "id": "pixie",
+      "label": "Short 02",
+      "texture": "/assets/makehuman/textures/pixie.webp",
+      "thumbnail": "/assets/makehuman/thumbnails/pixie.webp",
+      "textureInfo": {
+        "sourceWidth": 2048,
+        "sourceHeight": 2048,
+        "width": 1024,
+        "height": 1024,
+        "bytes": 89538,
+        "format": "webp",
+        "alpha": true,
+        "neutralLuminance": true,
+        "luminanceScale": 0.45,
+        "luminanceOffset": 140
+      },
+      "thumbnailInfo": {
+        "sourceWidth": 256,
+        "sourceHeight": 256,
+        "width": 256,
+        "height": 256,
+        "bytes": 4472,
+        "format": "webp",
+        "alpha": true,
+        "neutralLuminance": false
+      }
+    },
+    "bob": {
+      "proxy": "/assets/makehuman/proxies/hair-bob.proxy",
+      "sourceVertices": 5203,
+      "renderVertices": 5961,
+      "triangles": 8474,
+      "id": "bob",
+      "label": "Bob 01",
+      "texture": "/assets/makehuman/textures/bob.webp",
+      "thumbnail": "/assets/makehuman/thumbnails/bob.webp",
+      "textureInfo": {
+        "sourceWidth": 2048,
+        "sourceHeight": 2048,
+        "width": 1024,
+        "height": 1024,
+        "bytes": 101690,
+        "format": "webp",
+        "alpha": true,
+        "neutralLuminance": true,
+        "luminanceScale": 0.45,
+        "luminanceOffset": 140
+      },
+      "thumbnailInfo": {
+        "sourceWidth": 256,
+        "sourceHeight": 256,
+        "width": 256,
+        "height": 256,
+        "bytes": 5216,
+        "format": "webp",
+        "alpha": true,
+        "neutralLuminance": false
+      }
+    },
+    "curls": {
+      "proxy": "/assets/makehuman/proxies/hair-curls.proxy",
+      "sourceVertices": 2196,
+      "renderVertices": 2276,
+      "triangles": 2192,
+      "id": "curls",
+      "label": "Afro 01",
+      "texture": "/assets/makehuman/textures/curls.webp",
+      "thumbnail": "/assets/makehuman/thumbnails/curls.webp",
+      "textureInfo": {
+        "sourceWidth": 2048,
+        "sourceHeight": 2048,
+        "width": 1024,
+        "height": 1024,
+        "bytes": 395202,
+        "format": "webp",
+        "alpha": true,
+        "neutralLuminance": true,
+        "luminanceScale": 0.45,
+        "luminanceOffset": 140
+      },
+      "thumbnailInfo": {
+        "sourceWidth": 256,
+        "sourceHeight": 256,
+        "width": 256,
+        "height": 256,
+        "bytes": 5716,
+        "format": "webp",
+        "alpha": true,
+        "neutralLuminance": false
+      }
+    },
+    "long": {
+      "proxy": "/assets/makehuman/proxies/hair-long.proxy",
+      "sourceVertices": 3239,
+      "renderVertices": 3314,
+      "triangles": 4108,
+      "id": "long",
+      "label": "Long 01",
+      "texture": "/assets/makehuman/textures/long.webp",
+      "thumbnail": "/assets/makehuman/thumbnails/long.webp",
+      "textureInfo": {
+        "sourceWidth": 2048,
+        "sourceHeight": 2048,
+        "width": 1024,
+        "height": 1024,
+        "bytes": 78660,
+        "format": "webp",
+        "alpha": true,
+        "neutralLuminance": true,
+        "luminanceScale": 0.45,
+        "luminanceOffset": 140
+      },
+      "thumbnailInfo": {
+        "sourceWidth": 256,
+        "sourceHeight": 256,
+        "width": 256,
+        "height": 256,
+        "bytes": 4208,
+        "format": "webp",
+        "alpha": true,
+        "neutralLuminance": false
+      }
+    },
+    "ponytail": {
+      "proxy": "/assets/makehuman/proxies/hair-ponytail.proxy",
+      "sourceVertices": 3718,
+      "renderVertices": 4049,
+      "triangles": 5352,
+      "id": "ponytail",
+      "label": "Ponytail 01",
+      "texture": "/assets/makehuman/textures/ponytail.webp",
+      "thumbnail": "/assets/makehuman/thumbnails/ponytail.webp",
+      "textureInfo": {
+        "sourceWidth": 2048,
+        "sourceHeight": 2048,
+        "width": 1024,
+        "height": 1024,
+        "bytes": 206366,
+        "format": "webp",
+        "alpha": true,
+        "neutralLuminance": true,
+        "luminanceScale": 0.45,
+        "luminanceOffset": 140
+      },
+      "thumbnailInfo": {
+        "sourceWidth": 256,
+        "sourceHeight": 256,
+        "width": 256,
+        "height": 256,
+        "bytes": 7844,
+        "format": "webp",
+        "alpha": true,
+        "neutralLuminance": false
+      }
+    }
+  },
+  "face": {
+    "eyes": {
+      "proxy": "/assets/makehuman/proxies/eyes.proxy",
+      "sourceVertices": 1064,
+      "renderVertices": 1076,
+      "triangles": 2040
+    },
+    "brows": {
+      "proxy": "/assets/makehuman/proxies/brows.proxy",
+      "sourceVertices": 124,
+      "renderVertices": 126,
+      "triangles": 192,
+      "texture": "/assets/makehuman/textures/brows.webp",
+      "textureInfo": {
+        "sourceWidth": 512,
+        "sourceHeight": 512,
+        "width": 512,
+        "height": 512,
+        "bytes": 34160,
+        "format": "webp",
+        "alpha": true,
+        "neutralLuminance": false
+      }
+    },
+    "lashes": {
+      "proxy": "/assets/makehuman/proxies/lashes.proxy",
+      "sourceVertices": 250,
+      "renderVertices": 250,
+      "triangles": 368,
+      "texture": "/assets/makehuman/textures/lashes.webp",
+      "textureInfo": {
+        "sourceWidth": 512,
+        "sourceHeight": 512,
+        "width": 512,
+        "height": 512,
+        "bytes": 27162,
+        "format": "webp",
+        "alpha": true,
+        "neutralLuminance": false
+      }
+    }
+  }
+}

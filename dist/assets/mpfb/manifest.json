@@ -1,0 +1,45 @@
+{
+  "formatVersion": 2,
+  "source": "makehumancommunity/mpfb2",
+  "sourceRevision": "80919fa4682335c41847f761a4d79dcad4124732",
+  "sourceRevisionBasis": "verified-reproducer",
+  "sourceInputs": {
+    "algorithm": "sha256-canonical-path-digest-v1",
+    "count": 379,
+    "fingerprint": "ce42d6859b7c01a2ab921aba1b759431d12640afd930b76d49f48d1c4d460db0"
+  },
+  "license": "CC0-1.0",
+  "application": {
+    "name": "form-body-visualizer",
+    "version": "1.0.0"
+  },
+  "measurementProtocol": {
+    "id": "form-atlas-surface-tape",
+    "version": 1,
+    "topology": "makehuman-hm08",
+    "definitionSha256": "0a615bb611f57c6f20fdf44514f31ac06aac5a472eba8f5a8c32d0467d87cd3b"
+  },
+  "circumferenceCalibration": {
+    "id": "form-atlas-hm08-circumference-calibration",
+    "version": 1,
+    "topology": "makehuman-hm08",
+    "definitionSha256": "7a233006d6367b0837301a893a32ce807fedbb654bfc07fcbafb59fe0fdd5c3b"
+  },
+  "assetDigests": {
+    "meshSha256": "0ffd4b67284e7cc13bd5aa0e0a8f6f326810cf52262e52331d69bfa9ee6706ef",
+    "fitMeshSha256": "5926d214861598d54829a16ed34d0614ec9e71f7950bcbfde1dd1832df1d9316",
+    "targetsSha256": "9732a1bd182be69e0a29409ab7510f67a775f95f1c4d51b71ab8a53fc72a94ef",
+    "targetsDecodedSha256": "f7c9a511bec62e61424d244d7f22241ba78f746442cc621b205a7d58a3c10444"
+  },
+  "assetFingerprint": "7bec4111e9fb400371bcb43c44447772e53a1bf5454232e846595250ddcb0888",
+  "mesh": "/assets/mpfb/body.mesh",
+  "fitMesh": "/assets/mpfb/fit.mesh",
+  "targets": "/assets/mpfb/targets.bin.gz",
+  "vertexCount": 13380,
+  "fitVertexCount": 19158,
+  "triangleCount": 26756,
+  "minY": -8.16759967803955,
+  "maxY": 8.491299629211426,
+  "targetCount": 378,
+  "recordCount": 1951321
+}
